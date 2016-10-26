@@ -37,7 +37,7 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>刘鸿飞—Web前端工程师</title>	
+	<title>吕世强</title>	
 	<link rel="stylesheet" href="lib/Velocity.js/css/reset.css"> 
 	<script src="lib/Velocity.js/js/modernizr.js"></script> 
 	<!--[if IE]>
